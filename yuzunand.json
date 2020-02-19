@@ -1,0 +1,35 @@
+{
+  "nand": "https://github.com/IcosaSwitch/Yuzu-NAND/blob/master/nand.icsa?raw=true",
+  "keys": "https://github.com/IcosaSwitch/Yuzu-NAND/blob/master/prod.keys?raw=true",
+  "firm": {
+    "1.0.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/1.0.0.icsa"
+    "2.0.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/2.0.0.icsa"
+    "2.1.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/2.1.0.icsa"
+    "2.2.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/2.2.0.icsa"
+    "2.3.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/2.3.0.icsa"
+    "3.0.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/3.0.0.icsa"
+    "3.0.1": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/3.0.1.icsa"
+    "3.0.2": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/3.0.2.icsa"
+    "4.0.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/4.0.0.icsa"
+    "4.0.1": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/4.0.1.icsa"
+    "4.1.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/4.1.0.icsa"
+    "5.0.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/5.0.0.icsa"
+    "5.0.1": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/5.0.1.icsa"
+    "5.0.2": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/5.0.2.icsa"
+    "5.1.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/5.1.0.icsa"
+    "6.0.0 (Pre-release)": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/6.0.0.Pre-release.icsa"
+    "6.0.0 (Release)": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/6.0.0.Release.icsa"
+    "6.0.1": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/6.0.1.icsa"
+    "6.1.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/6.1.0.icsa"
+    "6.2.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/6.2.0.icsa"
+    "7.0.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/7.0.0.icsa"
+    "7.0.1": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/7.0.1.icsa"
+    "8.0.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/8.0.0.icsa"
+    "8.0.1": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/8.0.1.icsa"
+    "8.1.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/8.1.0.icsa"
+    "8.1.1": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/8.1.1.icsa"
+    "9.0.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/9.0.0.icsa"
+    "9.0.1": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/9.0.1.icsa"
+    "9.1.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/9.1.0.icsa"
+  }
+}
