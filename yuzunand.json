@@ -1,35 +1,35 @@
 {
-  "nand": "https://github.com/IcosaSwitch/Yuzu-NAND/blob/master/nand.icsa?raw=true",
-  "keys": "https://github.com/IcosaSwitch/Yuzu-NAND/blob/master/prod.keys?raw=true",
+  "nand": ["https://github.com/IcosaSwitch/Yuzu-NAND/blob/master/nand.icsa?raw=true", 17642955],
+  "keys": ["https://github.com/IcosaSwitch/Yuzu-NAND/blob/master/prod.keys?raw=true", 15768],
   "firm": {
-    "1.0.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/1.0.0.icsa"
-    "2.0.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/2.0.0.icsa"
-    "2.1.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/2.1.0.icsa"
-    "2.2.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/2.2.0.icsa"
-    "2.3.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/2.3.0.icsa"
-    "3.0.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/3.0.0.icsa"
-    "3.0.1": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/3.0.1.icsa"
-    "3.0.2": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/3.0.2.icsa"
-    "4.0.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/4.0.0.icsa"
-    "4.0.1": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/4.0.1.icsa"
-    "4.1.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/4.1.0.icsa"
-    "5.0.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/5.0.0.icsa"
-    "5.0.1": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/5.0.1.icsa"
-    "5.0.2": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/5.0.2.icsa"
-    "5.1.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/5.1.0.icsa"
-    "6.0.0 (Pre-release)": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/6.0.0.Pre-release.icsa"
-    "6.0.0 (Release)": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/6.0.0.Release.icsa"
-    "6.0.1": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/6.0.1.icsa"
-    "6.1.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/6.1.0.icsa"
-    "6.2.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/6.2.0.icsa"
-    "7.0.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/7.0.0.icsa"
-    "7.0.1": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/7.0.1.icsa"
-    "8.0.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/8.0.0.icsa"
-    "8.0.1": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/8.0.1.icsa"
-    "8.1.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/8.1.0.icsa"
-    "8.1.1": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/8.1.1.icsa"
-    "9.0.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/9.0.0.icsa"
-    "9.0.1": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/9.0.1.icsa"
-    "9.1.0": "https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/9.1.0.icsa"
+    "1.0.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/1.0.0.icsa", 252016537],
+    "2.0.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/2.0.0.icsa", 254455055],
+    "2.1.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/2.1.0.icsa", 254479631],
+    "2.2.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/2.2.0.icsa", 254532879],
+    "2.3.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/2.3.0.icsa", 254533391],
+    "3.0.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/3.0.0.icsa", 264903894],
+    "3.0.1": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/3.0.1.icsa", 264864982],
+    "3.0.2": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/3.0.2.icsa", 264903894],
+    "4.0.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/4.0.0.icsa", 284004122],
+    "4.0.1": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/4.0.1.icsa", 284004122],
+    "4.1.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/4.1.0.icsa", 284005658],
+    "5.0.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/5.0.0.icsa", 272665655],
+    "5.0.1": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/5.0.1.icsa", 272667191],
+    "5.0.2": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/5.0.2.icsa", 272665655],
+    "5.1.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/5.1.0.icsa", 273970339],
+    "6.0.0 (Pre-release)": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/6.0.0.Pre-release.icsa", 276213529],
+    "6.0.0 (Release)": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/6.0.0.Release.icsa", 276235033],
+    "6.0.1": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/6.0.1.icsa", 276234009],
+    "6.1.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/6.1.0.icsa", 276474801],
+    "6.2.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/6.2.0.icsa", 276473607],
+    "7.0.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/7.0.0.icsa", 279168345],
+    "7.0.1": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/7.0.1.icsa", 279169297],
+    "8.0.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/8.0.0.icsa", 305056714],
+    "8.0.1": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/8.0.1.icsa", 305057226],
+    "8.1.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/8.1.0.icsa", 305067466],
+    "8.1.1": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/8.1.1.icsa", 298758378],
+    "9.0.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/9.0.0.icsa", 329788069],
+    "9.0.1": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/9.0.1.icsa", 329792165],
+    "9.1.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/9.1.0.icsa", 329815717]
   }
 }
