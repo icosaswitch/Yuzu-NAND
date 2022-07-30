@@ -1,6 +1,6 @@
 {
-  "nand": ["https://raw.githubusercontent.com/IcosaSwitch/Yuzu-NAND/master/nand.icsa", 17643905],
-  "keys": ["https://raw.githubusercontent.com/IcosaSwitch/Yuzu-NAND/master/prod.keys", 11598],
+  "nand": ["https://raw.githubusercontent.com/IcosaSwitch/Yuzu-NAND/master/nand.icsa", 17644521],
+  "keys": ["https://raw.githubusercontent.com/IcosaSwitch/Yuzu-NAND/master/prod.keys", 13608],
   "firm": {
     "1.0.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/1.0.0.icsa", 252016537],
     "2.0.0": ["https://github.com/IcosaSwitch/Yuzu-NAND/releases/download/firm/2.0.0.icsa", 254455055],
